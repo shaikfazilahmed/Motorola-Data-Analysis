@@ -31,7 +31,7 @@ The Dashboard of Motorola Sales from Oct 2021 to oct 2024.
    - Assess Sales Performance  
    - Guide Future Strategies
   
-#Dasboard:-
+**Dashboard** :-
 
 ![Dashboard-image](https://github.com/user-attachments/assets/cc82c8ee-edf1-4e29-8201-f629b71d4031)
 
